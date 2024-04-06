@@ -1,1 +1,1 @@
-# PhyrePanelDists
+# PhyrePanelDist
